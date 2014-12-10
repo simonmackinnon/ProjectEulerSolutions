@@ -117,12 +117,10 @@ namespace NumberLetterCounts
                 letterCount += countForCurrentNumber;
                 Console.WriteLine("Number {0} has {1} letters", i, countForCurrentNumber);
             
-}
+            }
 
             //Add for 1000 "onethousand"
-
             letterCount += 11;
-
         }
     }
 }
