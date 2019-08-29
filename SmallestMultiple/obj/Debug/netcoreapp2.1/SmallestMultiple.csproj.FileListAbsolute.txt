@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/bin/Debug/netcoreapp2.1/SmallestMultiple.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/bin/Debug/netcoreapp2.1/SmallestMultiple.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/bin/Debug/netcoreapp2.1/SmallestMultiple.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/bin/Debug/netcoreapp2.1/SmallestMultiple.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/bin/Debug/netcoreapp2.1/SmallestMultiple.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SmallestMultiple/obj/Debug/netcoreapp2.1/SmallestMultiple.pdb

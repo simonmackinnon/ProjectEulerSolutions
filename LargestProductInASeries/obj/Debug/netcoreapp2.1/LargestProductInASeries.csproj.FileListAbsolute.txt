@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/bin/Debug/netcoreapp2.1/LargestProductInASeries.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/bin/Debug/netcoreapp2.1/LargestProductInASeries.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/bin/Debug/netcoreapp2.1/LargestProductInASeries.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/bin/Debug/netcoreapp2.1/LargestProductInASeries.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/bin/Debug/netcoreapp2.1/LargestProductInASeries.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestProductInASeries/obj/Debug/netcoreapp2.1/LargestProductInASeries.pdb

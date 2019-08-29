@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/bin/Debug/netcoreapp2.1/SumSquareDifference.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/bin/Debug/netcoreapp2.1/SumSquareDifference.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/bin/Debug/netcoreapp2.1/SumSquareDifference.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/bin/Debug/netcoreapp2.1/SumSquareDifference.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/bin/Debug/netcoreapp2.1/SumSquareDifference.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SumSquareDifference/obj/Debug/netcoreapp2.1/SumSquareDifference.pdb

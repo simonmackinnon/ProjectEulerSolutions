@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/bin/Debug/netcoreapp2.1/10001stPrime.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/bin/Debug/netcoreapp2.1/10001stPrime.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/bin/Debug/netcoreapp2.1/10001stPrime.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/bin/Debug/netcoreapp2.1/10001stPrime.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/bin/Debug/netcoreapp2.1/10001stPrime.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/10001stPrime/obj/Debug/netcoreapp2.1/10001stPrime.pdb

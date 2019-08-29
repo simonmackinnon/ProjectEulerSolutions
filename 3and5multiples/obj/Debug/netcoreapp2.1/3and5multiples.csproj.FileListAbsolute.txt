@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/bin/Debug/netcoreapp2.1/3and5multiples.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/bin/Debug/netcoreapp2.1/3and5multiples.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/bin/Debug/netcoreapp2.1/3and5multiples.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/bin/Debug/netcoreapp2.1/3and5multiples.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/bin/Debug/netcoreapp2.1/3and5multiples.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/3and5multiples/obj/Debug/netcoreapp2.1/3and5multiples.pdb

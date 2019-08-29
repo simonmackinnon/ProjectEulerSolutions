@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/bin/Debug/netcoreapp2.1/LargestPalindromeProduct.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/bin/Debug/netcoreapp2.1/LargestPalindromeProduct.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/bin/Debug/netcoreapp2.1/LargestPalindromeProduct.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/bin/Debug/netcoreapp2.1/LargestPalindromeProduct.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/bin/Debug/netcoreapp2.1/LargestPalindromeProduct.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargestPalindromeProduct/obj/Debug/netcoreapp2.1/LargestPalindromeProduct.pdb
