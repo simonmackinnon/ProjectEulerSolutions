@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/bin/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/bin/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/bin/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/bin/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/bin/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SpecialPythagoreanTriplet/obj/Debug/netcoreapp2.1/SpecialPythagoreanTriplet.pdb

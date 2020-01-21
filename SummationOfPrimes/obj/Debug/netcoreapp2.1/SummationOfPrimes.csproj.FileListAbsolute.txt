@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/bin/Debug/netcoreapp2.1/SummationOfPrimes.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/bin/Debug/netcoreapp2.1/SummationOfPrimes.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/bin/Debug/netcoreapp2.1/SummationOfPrimes.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/bin/Debug/netcoreapp2.1/SummationOfPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/bin/Debug/netcoreapp2.1/SummationOfPrimes.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/SummationOfPrimes/obj/Debug/netcoreapp2.1/SummationOfPrimes.pdb
