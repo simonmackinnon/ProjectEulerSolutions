@@ -6,7 +6,6 @@ namespace SumSquareDifference
     {
         static void Main(string[] args)
         {
-            long diff = 0;
             long sum = 0;
             long sumSquared = 0;
             long squareOfSum = 0;
