@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/bin/Debug/netcoreapp2.1/LongestCollatzSeq.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/bin/Debug/netcoreapp2.1/LongestCollatzSeq.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/bin/Debug/netcoreapp2.1/LongestCollatzSeq.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/bin/Debug/netcoreapp2.1/LongestCollatzSeq.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/bin/Debug/netcoreapp2.1/LongestCollatzSeq.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LongestCollatzSeq/obj/Debug/netcoreapp2.1/LongestCollatzSeq.pdb
