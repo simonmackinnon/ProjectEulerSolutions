@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/bin/Debug/netcoreapp2.1/PowerDigitSum.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/bin/Debug/netcoreapp2.1/PowerDigitSum.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/bin/Debug/netcoreapp2.1/PowerDigitSum.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/bin/Debug/netcoreapp2.1/PowerDigitSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/bin/Debug/netcoreapp2.1/PowerDigitSum.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PowerDigitSum/obj/Debug/netcoreapp2.1/PowerDigitSum.pdb

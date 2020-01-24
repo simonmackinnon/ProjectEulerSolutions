@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/bin/Debug/netcoreapp2.1/NumberLetterCounts.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/bin/Debug/netcoreapp2.1/NumberLetterCounts.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/bin/Debug/netcoreapp2.1/NumberLetterCounts.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/bin/Debug/netcoreapp2.1/NumberLetterCounts.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/bin/Debug/netcoreapp2.1/NumberLetterCounts.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberLetterCounts/obj/Debug/netcoreapp2.1/NumberLetterCounts.pdb

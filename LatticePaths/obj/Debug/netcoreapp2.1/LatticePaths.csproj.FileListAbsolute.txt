@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/bin/Debug/netcoreapp2.1/LatticePaths.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/bin/Debug/netcoreapp2.1/LatticePaths.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/bin/Debug/netcoreapp2.1/LatticePaths.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/bin/Debug/netcoreapp2.1/LatticePaths.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/bin/Debug/netcoreapp2.1/LatticePaths.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LatticePaths/obj/Debug/netcoreapp2.1/LatticePaths.pdb
