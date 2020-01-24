@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/bin/Debug/netcoreapp2.1/LargeSum.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/bin/Debug/netcoreapp2.1/LargeSum.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/bin/Debug/netcoreapp2.1/LargeSum.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/bin/Debug/netcoreapp2.1/LargeSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/bin/Debug/netcoreapp2.1/LargeSum.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LargeSum/obj/Debug/netcoreapp2.1/LargeSum.pdb

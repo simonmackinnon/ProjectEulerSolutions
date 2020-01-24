@@ -35,7 +35,7 @@ namespace HighlyDivisibleTriangularNumber
             for(int factor = 1; factor <= max; ++factor) { //test from 1 to the square root, or the int below it, inclusive.
                 if(number % factor == 0) {
                     factors.Add(factor);
-                    if(factor != number/factor) { // Don't add the square root twice!  Thanks Jon
+                    if(factor != number/factor) { // Don't add the square root twice!  Thanks Jon Skeet
                         factors.Add(number/factor);
                     }
                 }
