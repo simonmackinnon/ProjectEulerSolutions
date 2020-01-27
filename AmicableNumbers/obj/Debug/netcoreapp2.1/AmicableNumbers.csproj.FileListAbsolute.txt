@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/bin/Debug/netcoreapp2.1/AmicableNumbers.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/bin/Debug/netcoreapp2.1/AmicableNumbers.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/bin/Debug/netcoreapp2.1/AmicableNumbers.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/bin/Debug/netcoreapp2.1/AmicableNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/bin/Debug/netcoreapp2.1/AmicableNumbers.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/AmicableNumbers/obj/Debug/netcoreapp2.1/AmicableNumbers.pdb

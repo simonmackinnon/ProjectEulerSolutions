@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/bin/Debug/netcoreapp2.1/CountingSundays.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/bin/Debug/netcoreapp2.1/CountingSundays.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/bin/Debug/netcoreapp2.1/CountingSundays.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/bin/Debug/netcoreapp2.1/CountingSundays.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/bin/Debug/netcoreapp2.1/CountingSundays.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CountingSundays/obj/Debug/netcoreapp2.1/CountingSundays.pdb

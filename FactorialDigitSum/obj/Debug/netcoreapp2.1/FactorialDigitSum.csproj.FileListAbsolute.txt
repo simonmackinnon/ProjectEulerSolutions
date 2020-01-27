@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/bin/Debug/netcoreapp2.1/FactorialDigitSum.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/bin/Debug/netcoreapp2.1/FactorialDigitSum.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/bin/Debug/netcoreapp2.1/FactorialDigitSum.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/bin/Debug/netcoreapp2.1/FactorialDigitSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/bin/Debug/netcoreapp2.1/FactorialDigitSum.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/FactorialDigitSum/obj/Debug/netcoreapp2.1/FactorialDigitSum.pdb
