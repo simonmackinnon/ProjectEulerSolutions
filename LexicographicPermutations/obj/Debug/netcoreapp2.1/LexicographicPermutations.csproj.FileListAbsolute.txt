@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/bin/Debug/netcoreapp2.1/LexicographicPermutations.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/bin/Debug/netcoreapp2.1/LexicographicPermutations.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/bin/Debug/netcoreapp2.1/LexicographicPermutations.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/bin/Debug/netcoreapp2.1/LexicographicPermutations.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/bin/Debug/netcoreapp2.1/LexicographicPermutations.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/LexicographicPermutations/obj/Debug/netcoreapp2.1/LexicographicPermutations.pdb

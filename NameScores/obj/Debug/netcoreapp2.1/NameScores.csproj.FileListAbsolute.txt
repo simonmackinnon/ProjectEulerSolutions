@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/bin/Debug/netcoreapp2.1/NameScores.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/bin/Debug/netcoreapp2.1/NameScores.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/bin/Debug/netcoreapp2.1/NameScores.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/bin/Debug/netcoreapp2.1/NameScores.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/bin/Debug/netcoreapp2.1/NameScores.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NameScores/obj/Debug/netcoreapp2.1/NameScores.pdb
