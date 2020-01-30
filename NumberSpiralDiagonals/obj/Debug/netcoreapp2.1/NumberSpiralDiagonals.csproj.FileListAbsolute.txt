@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/bin/Debug/netcoreapp2.1/NumberSpiralDiagonals.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/bin/Debug/netcoreapp2.1/NumberSpiralDiagonals.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/bin/Debug/netcoreapp2.1/NumberSpiralDiagonals.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/bin/Debug/netcoreapp2.1/NumberSpiralDiagonals.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/bin/Debug/netcoreapp2.1/NumberSpiralDiagonals.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/NumberSpiralDiagonals/obj/Debug/netcoreapp2.1/NumberSpiralDiagonals.pdb

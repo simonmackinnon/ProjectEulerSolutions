@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/bin/Debug/netcoreapp2.1/1000DigitFibonacciNumber.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/bin/Debug/netcoreapp2.1/1000DigitFibonacciNumber.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/bin/Debug/netcoreapp2.1/1000DigitFibonacciNumber.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/bin/Debug/netcoreapp2.1/1000DigitFibonacciNumber.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/bin/Debug/netcoreapp2.1/1000DigitFibonacciNumber.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/1000DigitFibonacciNumber/obj/Debug/netcoreapp2.1/1000DigitFibonacciNumber.pdb

@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/bin/Debug/netcoreapp2.1/QuadraticPrimes.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/bin/Debug/netcoreapp2.1/QuadraticPrimes.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/bin/Debug/netcoreapp2.1/QuadraticPrimes.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/bin/Debug/netcoreapp2.1/QuadraticPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/bin/Debug/netcoreapp2.1/QuadraticPrimes.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/QuadraticPrimes/obj/Debug/netcoreapp2.1/QuadraticPrimes.pdb
