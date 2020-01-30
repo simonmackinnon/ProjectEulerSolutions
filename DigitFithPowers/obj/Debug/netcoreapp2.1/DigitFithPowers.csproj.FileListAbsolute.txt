@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/bin/Debug/netcoreapp2.1/DigitFithPowers.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/bin/Debug/netcoreapp2.1/DigitFithPowers.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/bin/Debug/netcoreapp2.1/DigitFithPowers.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/bin/Debug/netcoreapp2.1/DigitFithPowers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/bin/Debug/netcoreapp2.1/DigitFithPowers.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFithPowers/obj/Debug/netcoreapp2.1/DigitFithPowers.pdb
