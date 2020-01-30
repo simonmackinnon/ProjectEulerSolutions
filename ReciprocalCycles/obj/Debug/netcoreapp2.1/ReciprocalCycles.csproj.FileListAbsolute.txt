@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/bin/Debug/netcoreapp2.1/ReciprocalCycles.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/bin/Debug/netcoreapp2.1/ReciprocalCycles.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/bin/Debug/netcoreapp2.1/ReciprocalCycles.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/bin/Debug/netcoreapp2.1/ReciprocalCycles.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/bin/Debug/netcoreapp2.1/ReciprocalCycles.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/ReciprocalCycles/obj/Debug/netcoreapp2.1/ReciprocalCycles.pdb
