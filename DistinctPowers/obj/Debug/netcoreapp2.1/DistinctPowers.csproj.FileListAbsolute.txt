@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/bin/Debug/netcoreapp2.1/DistinctPowers.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/bin/Debug/netcoreapp2.1/DistinctPowers.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/bin/Debug/netcoreapp2.1/DistinctPowers.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/bin/Debug/netcoreapp2.1/DistinctPowers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/bin/Debug/netcoreapp2.1/DistinctPowers.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DistinctPowers/obj/Debug/netcoreapp2.1/DistinctPowers.pdb
