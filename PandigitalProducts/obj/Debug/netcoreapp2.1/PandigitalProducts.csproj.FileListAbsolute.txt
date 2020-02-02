@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/bin/Debug/netcoreapp2.1/PandigitalProducts.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/bin/Debug/netcoreapp2.1/PandigitalProducts.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/bin/Debug/netcoreapp2.1/PandigitalProducts.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/bin/Debug/netcoreapp2.1/PandigitalProducts.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/bin/Debug/netcoreapp2.1/PandigitalProducts.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PandigitalProducts/obj/Debug/netcoreapp2.1/PandigitalProducts.pdb

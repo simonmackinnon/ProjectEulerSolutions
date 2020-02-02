@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/bin/Debug/netcoreapp2.1/DigitCancellingFractions.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/bin/Debug/netcoreapp2.1/DigitCancellingFractions.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/bin/Debug/netcoreapp2.1/DigitCancellingFractions.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/bin/Debug/netcoreapp2.1/DigitCancellingFractions.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/bin/Debug/netcoreapp2.1/DigitCancellingFractions.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitCancellingFractions/obj/Debug/netcoreapp2.1/DigitCancellingFractions.pdb
