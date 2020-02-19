@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/bin/Debug/netcoreapp2.2/DigitFactorials.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/bin/Debug/netcoreapp2.2/DigitFactorials.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/bin/Debug/netcoreapp2.2/DigitFactorials.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/bin/Debug/netcoreapp2.2/DigitFactorials.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/bin/Debug/netcoreapp2.2/DigitFactorials.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/DigitFactorials/obj/Debug/netcoreapp2.2/DigitFactorials.pdb
