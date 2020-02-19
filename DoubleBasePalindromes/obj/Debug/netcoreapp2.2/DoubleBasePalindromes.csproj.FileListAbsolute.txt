@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/bin/Debug/netcoreapp2.2/DoubleBasePalindromes.deps.json
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/bin/Debug/netcoreapp2.2/DoubleBasePalindromes.runtimeconfig.json
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/bin/Debug/netcoreapp2.2/DoubleBasePalindromes.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/bin/Debug/netcoreapp2.2/DoubleBasePalindromes.dll
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/bin/Debug/netcoreapp2.2/DoubleBasePalindromes.pdb
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.dll
+/Users/p785330/Documents/workspace/DoubleBasePalindromes/obj/Debug/netcoreapp2.2/DoubleBasePalindromes.pdb

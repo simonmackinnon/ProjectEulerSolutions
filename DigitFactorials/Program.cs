@@ -14,19 +14,12 @@ namespace DigitFactorials
             {
                 BigInteger local_number = number;
 
-                while (local_number % 10 == 0)
-                {
-                    local_number /= 10;
-                }
-
                 BigInteger local_sum = 0;
                 while (local_number > 0)
                 {
                     local_sum += factorial(local_number % 10);
                     local_number /= 10;
                 }
-
-                //Console.WriteLine("Digit Factorial for {0} is {1}: ", number, local_sum);
 
                 if (local_sum == number)
                 {
