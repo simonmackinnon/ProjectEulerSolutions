@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/bin/Debug/netcoreapp2.2/CircularPrimes.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/bin/Debug/netcoreapp2.2/CircularPrimes.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/bin/Debug/netcoreapp2.2/CircularPrimes.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/bin/Debug/netcoreapp2.2/CircularPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/bin/Debug/netcoreapp2.2/CircularPrimes.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CircularPrimes/obj/Debug/netcoreapp2.2/CircularPrimes.pdb
