@@ -1,0 +1,10 @@
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/obj/Debug/netcoreapp3.1/PandigitalPrime.csprojAssemblyReference.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/obj/Debug/netcoreapp3.1/PandigitalPrime.AssemblyInfoInputs.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/obj/Debug/netcoreapp3.1/PandigitalPrime.AssemblyInfo.cs
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/bin/Debug/netcoreapp3.1/PandigitalPrime.deps.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/bin/Debug/netcoreapp3.1/PandigitalPrime.runtimeconfig.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/bin/Debug/netcoreapp3.1/PandigitalPrime.runtimeconfig.dev.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/bin/Debug/netcoreapp3.1/PandigitalPrime.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/bin/Debug/netcoreapp3.1/PandigitalPrime.pdb
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/obj/Debug/netcoreapp3.1/PandigitalPrime.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/PandigitalPrime/obj/Debug/netcoreapp3.1/PandigitalPrime.pdb
