@@ -1,0 +1,10 @@
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/obj/Debug/netcoreapp3.1/ChampernownesConstant.csprojAssemblyReference.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/obj/Debug/netcoreapp3.1/ChampernownesConstant.AssemblyInfoInputs.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/obj/Debug/netcoreapp3.1/ChampernownesConstant.AssemblyInfo.cs
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/bin/Debug/netcoreapp3.1/ChampernownesConstant.deps.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/bin/Debug/netcoreapp3.1/ChampernownesConstant.runtimeconfig.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/bin/Debug/netcoreapp3.1/ChampernownesConstant.runtimeconfig.dev.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/bin/Debug/netcoreapp3.1/ChampernownesConstant.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/bin/Debug/netcoreapp3.1/ChampernownesConstant.pdb
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/obj/Debug/netcoreapp3.1/ChampernownesConstant.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/ChampernownesConstant/obj/Debug/netcoreapp3.1/ChampernownesConstant.pdb
