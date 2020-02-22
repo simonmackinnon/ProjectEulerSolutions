@@ -13,7 +13,7 @@ namespace SubstringDivisibility
             long sum = 0;
 
             string sourceString = "0123456789";
-            List<string> permutations = Permutate(sourceString).ToList();
+            IEnumerable<string> permutations = Permutate(sourceString);
             
             foreach (string str in permutations)
             {
@@ -40,8 +40,6 @@ namespace SubstringDivisibility
 
         static bool isNumberSubstringDivisible(string numberString)
         {
-            
-            
             for (int i = 1; i < 8; i++)
             {
                 string dStr = numberString.Substring(i, 3);
