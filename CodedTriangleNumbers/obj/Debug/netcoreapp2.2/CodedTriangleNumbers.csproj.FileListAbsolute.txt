@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/bin/Debug/netcoreapp2.2/CodedTriangleNumbers.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/bin/Debug/netcoreapp2.2/CodedTriangleNumbers.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/bin/Debug/netcoreapp2.2/CodedTriangleNumbers.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/bin/Debug/netcoreapp2.2/CodedTriangleNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/bin/Debug/netcoreapp2.2/CodedTriangleNumbers.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/CodedTriangleNumbers/obj/Debug/netcoreapp2.2/CodedTriangleNumbers.pdb
