@@ -1,0 +1,10 @@
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/obj/Debug/netcoreapp3.1/SubstringDivisibility.csprojAssemblyReference.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/obj/Debug/netcoreapp3.1/SubstringDivisibility.AssemblyInfoInputs.cache
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/obj/Debug/netcoreapp3.1/SubstringDivisibility.AssemblyInfo.cs
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/bin/Debug/netcoreapp3.1/SubstringDivisibility.deps.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/bin/Debug/netcoreapp3.1/SubstringDivisibility.runtimeconfig.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/bin/Debug/netcoreapp3.1/SubstringDivisibility.runtimeconfig.dev.json
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/bin/Debug/netcoreapp3.1/SubstringDivisibility.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/bin/Debug/netcoreapp3.1/SubstringDivisibility.pdb
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/obj/Debug/netcoreapp3.1/SubstringDivisibility.dll
+/Users/simonmackinnon/workspace/home/ProjectEulerSolutions/SubstringDivisibility/obj/Debug/netcoreapp3.1/SubstringDivisibility.pdb
