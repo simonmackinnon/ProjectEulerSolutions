@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/bin/Debug/netcoreapp2.2/PokerHands.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/bin/Debug/netcoreapp2.2/PokerHands.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/bin/Debug/netcoreapp2.2/PokerHands.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/bin/Debug/netcoreapp2.2/PokerHands.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/bin/Debug/netcoreapp2.2/PokerHands.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PokerHands/obj/Debug/netcoreapp2.2/PokerHands.pdb
