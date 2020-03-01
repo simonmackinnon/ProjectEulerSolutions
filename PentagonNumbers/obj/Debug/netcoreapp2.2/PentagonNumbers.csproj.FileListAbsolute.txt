@@ -1,0 +1,11 @@
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/bin/Debug/netcoreapp2.2/PentagonNumbers.deps.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/bin/Debug/netcoreapp2.2/PentagonNumbers.runtimeconfig.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/bin/Debug/netcoreapp2.2/PentagonNumbers.runtimeconfig.dev.json
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/bin/Debug/netcoreapp2.2/PentagonNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/bin/Debug/netcoreapp2.2/PentagonNumbers.pdb
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.csprojAssemblyReference.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.csproj.CoreCompileInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.AssemblyInfoInputs.cache
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.AssemblyInfo.cs
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.dll
+/Users/p785330/Documents/workspace/ProjectEulerSolutions/PentagonNumbers/obj/Debug/netcoreapp2.2/PentagonNumbers.pdb
